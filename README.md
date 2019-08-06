@@ -1,3 +1,4 @@
+![logo](java1.jpg)
 # Java ile Veritabanı Programlama
 Eğitmen : Mehmet Emin Tenekeci, etenekeci@harran.edu.tr
 
